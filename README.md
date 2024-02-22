@@ -1,5 +1,3 @@
-Here's a sample GitHub README for a repository containing a collection of Helm charts for different apps:
-
 # Scoutflo Helm Charts Collection
 
 This repository contains a collection of Helm charts for various applications. Helm is a package manager for Kubernetes that helps you manage and deploy applications and services on Kubernetes clusters.
